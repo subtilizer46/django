@@ -1,0 +1,46 @@
+form{
+    background-color: beige;
+    padding: 20px;
+}
+
+label{
+    font-weight: bold;
+    font-size: 25px;
+    color: brown;
+}
+
+button{
+    padding: 6px 15px;
+    color: chartreuse;
+    background-color: brown;
+    border-radius: 5px;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+h1{
+    font-weight: bolder;
+    font-size: 35px;
+    color: chartreuse;
+}
+
+h1:hover{
+    color: red;
+    font-size: 40px;
+}
+
+p{
+    font-size: 25px;
+    color: burlywood;
+    background-color: brown;
+    padding: 20px;
+}
+
+a{
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+a:hover{
+    color: red;
+}
